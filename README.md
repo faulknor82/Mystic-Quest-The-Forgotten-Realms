@@ -33,7 +33,7 @@ Players control the protagonist, Aria, as she explores expansive landscapes, eng
 -	**Map:** M / View Button
 
 #### Combat System
-	The combat system is real-time with an emphasis on strategy and timing:
+The combat system is real-time with an emphasis on strategy and timing:
 -	**Basic Attacks:** Quick, light attacks that can be chained into combos.
 -	**Heavy Attacks:** Slower, more powerful strikes that can break enemy defenses.
 -	**Magic Spells:** Various spells can be cast using mana, including offensive, defensive, and healing spells.
